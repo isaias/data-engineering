@@ -1,5 +1,6 @@
 # stream-processing
 
-This repository is a collection of examples, tools, and techniques related to Stream processing. The most examples will be implemented using Scala, Java and eventually in Python.
+Este repositório é uma coleção de exemplos, ferramentas e técnicas relacionadas a processamento de fluxos contínuos de dados.
+A maioria dos exemplos utilizarão Scala e Java, eventualmente em Python.
 
-To simplify, it will be segmented by the main tool (Spark, Flink, Akka, Kafka, etc.)
+Para simplificar, os artefatos estarão segmentos de acordo com a ferramenta principal(Spark, Flink, Akka, Kafka, etc.)
