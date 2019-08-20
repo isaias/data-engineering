@@ -7,5 +7,6 @@ Para simplificar, os artefatos estarão segmentos de acordo com a ferramenta pri
 
 # Notebook
 
-Para execução dos exemplos vou optar por utilizar a ferramenta Apache Zeppelin (https://zeppelin.apache.org/) principalmente para Apache Flink e Apache Spark com Scala.
+Para execução dos exemplos vou optar por utilizar a ferramenta Apache Zeppelin (https://zeppelin.apache.org/) principalmente para Apache Flink e Apache Spark com Scala. o Apache Zeppelin possui diversos interpreters (Spark, JDBC, Python, Scala, Flink, entre outros)
+
 Vale lembrar que o Jupyter Notebook também pode ser utilizado com Spark, seja com Python ou mesmo Scala.
