@@ -12,3 +12,7 @@ Para execução dos exemplos vou optar por utilizar a ferramenta Apache Zeppelin
 O Apache Zeppelin possui diversos interpreters (Spark, JDBC, Python, Scala, Flink, entre outros)
 
 Vale lembrar que o Jupyter Notebook também pode ser utilizado com Spark, seja com Python ou mesmo Scala.
+
+# Spark vs Flink
+
+Para entender as diferenças básicas entre Spark e Flink, principalmente no que se refere a Strem Processing, veja esse link: 
