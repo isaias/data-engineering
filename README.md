@@ -13,6 +13,6 @@ O Apache Zeppelin possui diversos interpreters (Spark, JDBC, Python, Scala, Flin
 
 Vale lembrar que o Jupyter Notebook também pode ser utilizado com Spark, seja com Python ou mesmo Scala.
 
-# Spark vs Flink
+# [Wiki](https://github.com/isaias/data-engineering/wiki)
 
-Para entender as diferenças básicas entre Spark e Flink, principalmente no que se refere a Strem Processing, veja esse link: 
+No [Wiki](https://github.com/isaias/data-engineering/wiki) deixarei algumas informações que acho relevante, como exemplo: A diferença entre Spark e Flink, algumas teorias envolvidas em processamento de fluxos contínuos, engenharia de dados, etc.
