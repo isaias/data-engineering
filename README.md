@@ -7,7 +7,7 @@ Para simplificar, os artefatos estarão segmentados de acordo com a ferramenta p
 
 # Notebook
 
-Para execução dos exemplos, na maioria das vezes, vou optar por utilizar a ferramenta Apache Zeppelin (https://zeppelin.apache.org/) principalmente para Apache Flink e Apache Spark com Scala. Na página do Zeppelin você encontrará informações sobre como instalar e iniciar a utilização (https://zeppelin.apache.org/docs/latest/quickstart/install.html).
+Para execução dos exemplos, na maioria das vezes, vou optar por utilizar o shell da própria ferramenta ou Apache Zeppelin (https://zeppelin.apache.org/) principalmente para Apache Flink e Apache Spark com Scala. Na página do Zeppelin você encontrará informações sobre como instalar e iniciar a utilização (https://zeppelin.apache.org/docs/latest/quickstart/install.html).
 
 O Apache Zeppelin possui diversos interpreters (Spark, JDBC, Python, Scala, Flink, entre outros)
 
